@@ -1,7 +1,3 @@
--------
-# SUPPORT ISRAEL 🤍💙
--------
-
 # CS2 WeaponPaints website with huge update.
 after a lot of effort with no time, finally a new version to the website `v2.0.0`,<br>
 with all the current features `weaponpaints` have to offer.
