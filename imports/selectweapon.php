@@ -482,7 +482,7 @@ if($Website_UseCategories) {
             <p><?= str_replace('{{name}}', "<strong>$UserInfo->personaname</strong>", $translations->skins->footer->signedin); ?></p>
         </a>
         <div class="credit">
-            <p>This website created by LielXD</p>
+            <p>Made with ♥ by aurum</p>
         </div>
         <div class="actions">
             <div class="settings">
@@ -524,4 +524,5 @@ if($Website_UseCategories) {
 </footer>
 
 </body>
+
 </html>
